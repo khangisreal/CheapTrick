@@ -1,2 +1,2 @@
 Cool extension.<br />
-Basically just removed some event listener
+Basically just removing some event listener
